@@ -4,7 +4,7 @@
 
 **Sobre mim**
 
-Olá, me chamo Erikclis Barbosa. Tenho 27 anos cursando 2º Semestre de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade de Estágio ou Júnior como Desenvolvedor Front-End. <br>
+Me chamo Erikclis Barbosa. Tenho 27 anos cursando 2º Semestre de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade de Estágio ou Júnior como Desenvolvedor Front-End. <br>
 
 <div align="center">
   <a href="https://github.com/erikclisbarbosa">
